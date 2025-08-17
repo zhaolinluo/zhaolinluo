@@ -1,7 +1,7 @@
 # Hi, I'm Zhaolin!<br>
 
 <p align="center">
-        <samp>「 I'm a Computer Science student at the University of Michigan, graduating in 2025.  
+        <samp>「 I'm a Computer Science graduate from the University of Michigan - Ann Arbor.  
         I’m passionate about building scalable software systems, developing full-stack applications, and solving problems in distributed computing and data infrastructure. 」
         </samp>
 </p>
