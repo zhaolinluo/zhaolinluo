@@ -1,7 +1,7 @@
 # Hi, I'm Zhaolin!<br>
 
 <p align="center">
-  <samp>Computer Science student at the University of Michigan — passionate about building scalable systems, full-stack apps, and solving problems in distributed computing.</samp>
+  <samp>Computer Science graduate at the University of Michigan, Ann Arbor — passionate about building scalable systems, full-stack apps, and solving problems in distributed computing.</samp>
 </p>
 
 <p align="center">
