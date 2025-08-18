@@ -13,7 +13,7 @@
  <a href="https://linkedin.com/in/zhaolin-luo" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
- <a href="https://github.com/zhaolinl?tab=repositories" target="_blank">
+ <a href="https://github.com/zhaolinluo?tab=repositories" target="_blank">
   <img src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/>
  </a>
 </p>
