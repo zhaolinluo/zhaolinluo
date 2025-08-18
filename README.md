@@ -27,10 +27,10 @@
 
 ## 🚀 Projects
 
-- **[Scalable Search Engine](https://github.com/zhaolinl/search-engine)** – Python + Hadoop project with MapReduce pipelines and an inverted index for distributed search.  
-- **[User Data Migration Tool](https://github.com/zhaolinl/data-migration-tool)** – Java + MongoDB ETL pipeline for migrating relational data to NoSQL and optimizing queries.  
-- **[Full-Stack Social Media App](https://github.com/zhaolinl/social-media-app)** – Flask + React app with CRUD operations, infinite scroll, and AWS deployment.  
-- **[More Projects](https://github.com/zhaolinl?tab=repositories)** – Additional work in Python, C++, and web development.  
+- **[Scalable Search Engine](https://github.com/zhaolinluo/search-engine)** – Python + Hadoop project with MapReduce pipelines and an inverted index for distributed search.  
+- **[User Data Migration Tool](https://github.com/zhaolinluo/data-migration-tool)** – Java + MongoDB ETL pipeline for migrating relational data to NoSQL and optimizing queries.  
+- **[Full-Stack Social Media App](https://github.com/zhaolinluo/social-media-app)** – Flask + React app with CRUD operations, infinite scroll, and AWS deployment.  
+- **[More Projects](https://github.com/zhaolinluo?tab=repositories)** – Additional work in Python, C++, and web development.  
 
 ---
 
